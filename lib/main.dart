@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:myapp/color.dart';
-import 'package:myapp/Gallery%20Page.dart';
+import 'package:myapp/GalleryPage.dart';
 
 void main() {
   runApp(const MyApp());
